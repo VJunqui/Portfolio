@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: #F6F6F6;
+}
+
+strong {
+    color: #F5f500;
+    border: 1px solid #F5f500;
+    padding: 3px;
+}
