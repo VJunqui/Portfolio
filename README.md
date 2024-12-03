@@ -1,2 +1,2 @@
 # Portfolio
- Portfólio de projetos de desenvolvimento.
+ Portfólio de projetos de desenvolvimento
