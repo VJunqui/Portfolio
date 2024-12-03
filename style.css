@@ -1,10 +1,23 @@
-body{
-    background-color: black;
-    color: #F6F6F6;
+* {
+    margin: 0;
+    padding: 0;
 }
 
-strong {
-    color: #F5f500;
-    border: 1px solid #F5f500;
-    padding: 3px;
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+    color: #ffffff;
+}
+
+.titulo-destaque {
+    color: #f5f500;
+}
+
+.apresentacao {
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
 }
