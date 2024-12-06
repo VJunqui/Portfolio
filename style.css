@@ -17,7 +17,7 @@ body{
 }
 
 .apresentacao {
-    margin: 10% 15%;
+    margin: 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -43,17 +43,27 @@ body{
 .apresentacao__links {
     display: flex;
     justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+}
+
+.apresentacao__links__subtitulo {
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
 }
 
 .apresentacao__links__link {
-    background-color: #f5f500;
-    width: 280px;
+    border: 2px solid #f5f500;
+    border-radius: 10px;
+    width: 478px;
     text-align: center;
     border-radius: 16px;
     font-size: 24px;
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
-    color: black;
+    color: #f6f6f6;
     font-family: "Montserrat", sans-serif;
 }
