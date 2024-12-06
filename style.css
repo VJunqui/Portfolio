@@ -13,7 +13,7 @@ body{
 }
 
 .titulo-destaque{
-    color: #22D4FD;
+    color: #f5f500;
 }
 
 .apresentacao{
@@ -45,8 +45,8 @@ body{
 }
 
 .apresentacao__links__link{
-    background-color: #22D4FD;
-    width: 280px;
+    background-color: #f5f500;
+    width: 240px;
     text-align: center;
     border-radius: 16px;
     font-size: 24px;
