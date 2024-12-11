@@ -47,11 +47,12 @@ body {
 }
 .apresentacao__conteudo {
     width: 615px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 32px;
 }
-
+    
 .apresentacao__conteudo__titulo {
     font-size: 36px;
     font-family: var(--font-primaria);
