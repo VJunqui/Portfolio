@@ -5,7 +5,6 @@
     --cor-secundaria: #ffffff;
     --cor-terciaria: #f5f500;
     --cor-hover: #272727;
-    --cor-rodape: #aaa2a2;
 
     --font-primaria: 'Krona One', sans-serif;
     --font-secundaria: 'Montserrat', sans-serif; 
@@ -104,10 +103,11 @@ body {
 
 .rodape {
     color: var(--cor-primaria);
-    background-color: var(--cor-rodape);
+    background-color: var(--cor-terciaria);
     padding: 4px;
     text-align: center;
     font-family: var(--font-secundaria);
     font-size: 24px;
     font-weight: 400;
 }
+
