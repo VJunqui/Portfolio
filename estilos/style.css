@@ -22,7 +22,7 @@ body {
 }
 
 .cabecalho {
-    padding: 3% 0% 0% 15%;
+    padding: 5% 0% 0% 15%;
 }
 
 .cabecalho__menu {
@@ -123,7 +123,7 @@ body {
 
     .cabecalho__menu {
         justify-content: center;
-        gap: 60px;
+        gap: 70px;
     }
     
     .apresentacao {
