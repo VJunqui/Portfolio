@@ -116,6 +116,10 @@ body {
     font-weight: 400;
 }
 
+.projetos__link {
+    text-decoration: none;
+}
+
 @media (max-width: 1200px) {
     .cabecalho {
         padding: 10%;
