@@ -135,8 +135,7 @@ body {
     }
 
     .cabecalho__menu {
-        display: flex;
-        justify-content: space-between;
+        justify-content: center;
         gap: 9px;
     }
     
