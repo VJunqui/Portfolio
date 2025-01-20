@@ -125,14 +125,21 @@ body {
     text-decoration: none;
 }
 
+.apresentacao__link {
+    margin-bottom: 1em;
+}
+
 @media (max-width: 1200px) {
     .cabecalho {
-        padding: 10%;
+        padding: 10% 0% 5% 0;
     }
 
     .cabecalho__menu {
-        justify-content: center;
-        gap: 55px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 12px;
+        padding: 5% 3% 0 0;
     }
     
     .apresentacao {
@@ -142,5 +149,9 @@ body {
 
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    .icone {
+        display: none;
     }
 }
