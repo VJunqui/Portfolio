@@ -116,6 +116,11 @@ body {
     font-weight: 400;
 }
 
+.projetos {
+    display: flex;
+    flex-direction: column;
+}
+
 .projetos__link {
     text-decoration: none;
 }
